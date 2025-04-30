@@ -5,4 +5,4 @@ $$
  \mycolv{a\\b}
  \begin{bmatrix} a & b & c \\ d & f & g \end{bmatrix}
 $$
-Git removeal
+This file is to index shorthand commands and stuff
