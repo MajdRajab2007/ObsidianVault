@@ -11,14 +11,52 @@
             "id": "dabe8a75367d714e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "582bab7f83aef60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6b47d96fbf8dd0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "Linear Algebra/Matrices/How to go from Gaussian elimination to finding the inverse of a matrix.md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "How to go from Gaussian elimination to finding the inverse of a matrix"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,8 +87,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Next",
-            "matchingCase": false,
+            "query": "",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -86,7 +124,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d8875637507dc13f",
@@ -166,11 +204,13 @@
   },
   "active": "dabe8a75367d714e",
   "lastOpenFiles": [
-    "Linear Algebra/Matrices/Gaussian elimination.md",
-    "Linear Algebra/Matrices/Determinants and inverses.md",
-    "README.md",
-    "Linear Algebra/Matrices/Matrices Intro.md",
     "Linear Algebra/Matrices/Einstein summation convention.md",
+    "Linear Algebra/Matrices/Matrices Intro.md",
+    "Linear Algebra/Matrices/Determinants and inverses.md",
+    "Linear Algebra/Linear Algebra.md",
+    "README.md",
+    "Linear Algebra/Matrices/Gaussian elimination.md",
+    "Linear Algebra/Matrices/How to go from Gaussian elimination to finding the inverse of a matrix.md",
     "Bachaloria/Bachaloria.md",
     "MathJax commands.md",
     "/README.md",
@@ -189,7 +229,6 @@
     "Untitled.canvas",
     "MOC.md",
     "Bachaloria",
-    "Linear Algebra/Linear Algebra.md",
     "Linear Algebra"
   ]
 }
