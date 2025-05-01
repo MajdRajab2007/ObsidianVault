@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c3dddb7feb19c9df",
+        "id": "ab7b599d77529aec",
         "type": "tabs",
         "children": [
           {
-            "id": "db0cc8542fd2ba48",
+            "id": "111709c73293a7e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Matrices/Determinants and inverses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c55e105dc67137a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Matrices/Einstein summation convention.md",
-                "mode": "source",
+                "file": "Linear Algebra/Matrices/How to go from Gaussian elimination to finding the inverse of a matrix.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,61 +80,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e3a92f66fe4b05",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Linear Algebra/Matrices/Einstein summation convention.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0f5c3bdf504efcda",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Linear Algebra/Matrices/Einstein summation convention.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0e7d8ad43921c8bf",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "6d67d2ba01edd6e7",
+            "id": "26df30f13b581b98",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Linear Algebra/Matrices/Einstein summation convention.md"
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,19 +116,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c55e105dc67137a",
+  "active": "f92d0bd00212a767",
   "lastOpenFiles": [
+    "Linear Algebra/Matrices/Gaussian elimination.md",
+    "Linear Algebra/Matrices/Matrices Intro.md",
+    "MathJax commands.md",
+    "2025-05-01.md",
+    "Linear Algebra/Linear Algebra.md",
+    "Bachaloria/Bachaloria.md",
+    "Bachaloria/Files/French Writing.pdf",
+    "Linear Algebra/Matrices/Einstein summation convention.md",
+    "Photos/Pasted image 20250501162242.png",
+    "Bachaloria/Files",
+    "Linear Algebra/Matrices/Determinants and inverses.md",
     "Pasted image 20250501162242.png",
     "Photos/Pasted image 20250501160328.png",
     "Photos/Pasted image 20250501154613.png",
-    "Linear Algebra/Matrices/Determinants and inverses.md",
-    "Linear Algebra/Matrices/Einstein summation convention.md",
-    "Linear Algebra/Matrices/Matrices Intro.md",
     "Linear Algebra/Matrices/Matrix Code.md",
     "Linear Algebra/Matrices/How to go from Gaussian elimination to finding the inverse of a matrix.md",
-    "Linear Algebra/Matrices/Gaussian elimination.md",
-    "MathJax commands.md",
-    "Linear Algebra/Linear Algebra.md",
     "README.md",
     "MathJax Testing.md",
     "Matrices/Determinants and inverses.md",
