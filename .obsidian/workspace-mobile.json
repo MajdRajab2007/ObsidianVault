@@ -124,7 +124,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "d8875637507dc13f",
@@ -202,8 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dabe8a75367d714e",
+  "active": "6a900abff6c2bde0",
   "lastOpenFiles": [
+    "Bachaloria/Files/French Writing.pdf",
+    "Bachaloria/Files/4_5866380217676731999.pdf",
+    "Bachaloria/Files",
     "Linear Algebra/Matrices/Einstein summation convention.md",
     "Linear Algebra/Matrices/Matrices Intro.md",
     "Linear Algebra/Matrices/Determinants and inverses.md",
