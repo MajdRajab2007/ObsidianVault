@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c55e105dc67137a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Matrices/Einstein summation convention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Matrices/Determinants and inverses.md",
+                "file": "Linear Algebra/Matrices/Einstein summation convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Matrices/Determinants and inverses.md",
+                "file": "Linear Algebra/Matrices/Einstein summation convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Matrices/Determinants and inverses.md"
+                "file": "Linear Algebra/Matrices/Einstein summation convention.md"
               }
             }
           }
@@ -147,13 +160,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0cc8542fd2ba48",
+  "active": "5c55e105dc67137a",
   "lastOpenFiles": [
-    "Linear Algebra/Matrices/Matrix Code.md",
+    "Pasted image 20250501162242.png",
+    "Photos/Pasted image 20250501160328.png",
+    "Photos/Pasted image 20250501154613.png",
     "Linear Algebra/Matrices/Determinants and inverses.md",
+    "Linear Algebra/Matrices/Einstein summation convention.md",
+    "Linear Algebra/Matrices/Matrices Intro.md",
+    "Linear Algebra/Matrices/Matrix Code.md",
     "Linear Algebra/Matrices/How to go from Gaussian elimination to finding the inverse of a matrix.md",
     "Linear Algebra/Matrices/Gaussian elimination.md",
-    "Linear Algebra/Matrices/Matrices Intro.md",
     "MathJax commands.md",
     "Linear Algebra/Linear Algebra.md",
     "README.md",

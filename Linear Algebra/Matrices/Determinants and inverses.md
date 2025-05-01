@@ -7,4 +7,6 @@ $$
 $$
 |A| = ad - bc
  $$
- 
+## Next:
+[[Einstein summation convention]]
+ ___
