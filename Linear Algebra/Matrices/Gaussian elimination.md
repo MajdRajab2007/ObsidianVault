@@ -33,7 +33,4 @@ $$
 $$
 so we did elimination to get the final row and then started taking row no.3 from row no.2 and so on until we got the final set which also resembles the identity matrix `I`
 
-### Next: 
-[[How to go from Gaussian elimination to finding the inverse of a matrix]]
-
 ___ 

@@ -21,6 +21,4 @@ $$
 $$
 A\times A^{-1} = I
 $$
-### Next:
-[[Determinants and inverses]]
 ___

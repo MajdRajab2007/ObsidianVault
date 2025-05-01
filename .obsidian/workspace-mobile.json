@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Algebra/Matrices/How to go from Gaussian elimination to finding the inverse of a matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ec331dbf0e90feec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "How to go from Gaussian elimination to finding the inverse of a matrix"
             }
           }
         ]
@@ -59,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Next",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -174,12 +164,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a900abff6c2bde0",
+  "active": "dabe8a75367d714e",
   "lastOpenFiles": [
+    "Linear Algebra/Matrices/Gaussian elimination.md",
+    "Linear Algebra/Matrices/Determinants and inverses.md",
+    "README.md",
+    "Linear Algebra/Matrices/Matrices Intro.md",
+    "Linear Algebra/Matrices/Einstein summation convention.md",
+    "Bachaloria/Bachaloria.md",
+    "MathJax commands.md",
     "/README.md",
     "Photos/Pasted image 20250501160328.png",
     "Photos/Pasted image 20250501162242.png",
-    "Linear Algebra/Matrices/Einstein summation convention.md",
     "/Photos/Pasted image 20250501160328.png",
     "/Photos/Pasted image 20250501154613.png",
     "Photos/Pasted image 20250501154613.png",
@@ -191,14 +187,9 @@
     "/Linear Algebra/Matrices",
     "/Linear Algebra",
     "Untitled.canvas",
-    "README.md",
     "MOC.md",
-    "Bachaloria/Bachaloria.md",
     "Bachaloria",
     "Linear Algebra/Linear Algebra.md",
-    "Linear Algebra/Matrices/Matrices Intro.md",
-    "MathJax commands.md",
-    "Linear Algebra",
-    "Linear Algebra/Matrices/Determinants and inverses.md"
+    "Linear Algebra"
   ]
 }

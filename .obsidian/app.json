@@ -2,5 +2,6 @@
   "vimMode": false,
   "trashOption": "none",
   "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobilePullAction": "command-palette:open"
 }
