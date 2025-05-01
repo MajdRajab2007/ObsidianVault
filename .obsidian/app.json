@@ -1,4 +1,6 @@
 {
   "vimMode": false,
-  "trashOption": "none"
+  "trashOption": "none",
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
