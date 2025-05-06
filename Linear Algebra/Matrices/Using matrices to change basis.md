@@ -11,6 +11,10 @@ and if we wanted to do it the other way around we can get the basis for the trad
 ***Note**:* to get the inverse matrix you:
 1. keep the diagonal elements the same
 2. flip the (-) on the sub diagonal sides
+3. divide by the determinant
 
 This can also be done with projections like written before on the notebook ***if*** the vectors are orthogonal
+
+![[Pasted image 20250506171753.png]]
+but if we wanted to apply a transformation for a vector $\mycolv{x\\y}$ defined in bear's coordinate system, we need to take $\mycolv{x\\y}$ and make it in our system then apply the transformation the change it back to bear's system by **applying $B^{-1}$** (where $B$ is the matrix that turns $\mycolv{x\\y}$ into our system)
 ___

@@ -6,3 +6,6 @@ Matrices are linear mathematical components that change shape of vectors and can
 - [[Determinants and inverses]]
 - [[Einstein summation convention]]
 - [[Using matrices to change basis]]
+- [[Orthogonal Matrices]]
+- [[The Gram-Schmidt Process]]
+- 

@@ -3,5 +3,6 @@
   "trashOption": "none",
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "mobilePullAction": "command-palette:open"
+  "mobilePullAction": "command-palette:open",
+  "promptDelete": false
 }
