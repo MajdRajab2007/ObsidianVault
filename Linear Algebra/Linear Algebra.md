@@ -1,4 +1,5 @@
 #LinearAlgebra
-- [[Matrices Intro]]
+- [[Matrices Intro | Matrices]] 
 - [[MathJax commands]]
-- 
+- [[Eigen Algebra Intro | Eigen Things]]
+

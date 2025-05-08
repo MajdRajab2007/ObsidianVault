@@ -8,4 +8,4 @@ Matrices are linear mathematical components that change shape of vectors and can
 - [[Using matrices to change basis]]
 - [[Orthogonal Matrices]]
 - [[The Gram-Schmidt Process]]
-- 
+- [[Reflecting in a plane]]
