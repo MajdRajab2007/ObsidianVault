@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarDays",
+      "LiArchive",
       "LiImage",
       "LiGithub",
-      "LiMap",
-      "LiCommand",
-      "LiCalculator"
+      "LiMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,30 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Bachaloria": "LiAward",
-  "Linear Algebra": "LiCalculator",
+  "Bachaloria": {
+    "iconName": "LiAward",
+    "iconColor": "#e6ea1a"
+  },
+  "Linear Algebra": {
+    "iconName": "LiCalculator",
+    "iconColor": "#d93636"
+  },
   "MathJax commands.md": "LiCommand",
-  "MOC.md": "LiMap",
+  "MOC.md": {
+    "iconName": "LiMap",
+    "iconColor": "#52af46"
+  },
   "README.md": "LiGithub",
-  "Photos": "LiImage"
+  "Photos": {
+    "iconName": "LiImage",
+    "iconColor": "#2a7689"
+  },
+  "Templates": {
+    "iconName": "LiArchive",
+    "iconColor": "#652550"
+  },
+  "To Do lists": {
+    "iconName": "LiCalendarDays",
+    "iconColor": "#444384"
+  }
 }

@@ -14,3 +14,5 @@ Examples of Transformations
 - The concepts of eigenvalues and eigenvectors apply similarly in higher dimensions, with the focus on identifying characteristic vectors and their corresponding values.
 ___
 
+## Next Ideas: 
+- [[Special Eigen Cases]]

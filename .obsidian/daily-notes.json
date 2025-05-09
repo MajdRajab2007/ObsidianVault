@@ -1,0 +1,5 @@
+{
+  "folder": "To Do lists",
+  "template": "Templates/Todo {{date}}",
+  "autorun": true
+}
