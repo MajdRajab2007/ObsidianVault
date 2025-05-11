@@ -17,3 +17,4 @@ ___
 ## Next Ideas: 
 - [[Special Eigen Cases]]
 - [[Calculating eigen vectors]]
+- [[Changing to the eigen basis]]
