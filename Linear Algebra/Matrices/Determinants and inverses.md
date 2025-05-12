@@ -1,3 +1,8 @@
+---
+Tags:
+  - LinearAlgebra
+  - Matrices
+---
 ![[Pasted image 20250430194130.png]]
 
 Where the area of the paralellogram is given by the formula:

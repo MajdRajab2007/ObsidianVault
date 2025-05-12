@@ -1,5 +1,7 @@
 ---
-tags:
+Tags:
+  - LinearAlgebra
+  - Matrices
 ---
 ## Understanding Orthonormal Basis
 
