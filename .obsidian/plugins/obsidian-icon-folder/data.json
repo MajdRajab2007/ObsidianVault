@@ -60,9 +60,5 @@
     "iconName": "LiCalendarDays",
     "iconColor": "#444384"
   },
-  "Bachaloria/Tests": {
-    "iconName": "LiPencilLine",
-    "iconColor": "#00ffff"
-  },
   "Bachaloria/Files": "LiFolder"
 }
