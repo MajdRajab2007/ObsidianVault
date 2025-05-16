@@ -9,7 +9,7 @@ we can find the transformation to get a vector $v$ in that system to a tradition
 and if we wanted to do it the other way around we can get the basis for the traditional system in reference to the non traditional system by finding the inverse matrix and applying it to the vector
 
 ***Note**:* to get the inverse matrix you:
-1. keep the diagonal elements the same
+1. flip the diagonal elements
 2. flip the (-) on the sub diagonal sides
 3. divide by the determinant
 
