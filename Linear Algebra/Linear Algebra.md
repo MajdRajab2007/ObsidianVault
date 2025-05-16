@@ -1,3 +1,6 @@
+---
+Tags: LinearAlgebra
+---
 #LinearAlgebra
 - [[Matrices Intro | Matrices]] 
 - [[MathJax commands]]

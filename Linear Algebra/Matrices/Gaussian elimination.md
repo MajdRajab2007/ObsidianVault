@@ -1,3 +1,8 @@
+---
+Tags:
+  - LinearAlgebra
+  - Matrices
+---
 ## Solving the apples and bananas problem
 
 $$

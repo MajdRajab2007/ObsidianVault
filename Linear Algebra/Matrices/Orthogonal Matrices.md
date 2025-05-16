@@ -1,3 +1,8 @@
+---
+Tags:
+  - LinearAlgebra
+  - Matrices
+---
  Now, it's going to be really useful if we can make a transformation matrix whose column vectors make up a new basis, all of its vectors are perpendicular or what's called Orthogonal to each other. In this note, we're going to look at this and why this is. But first, I want you to find a new operation on the matrix called the transpose. This is where we interchange all the elements of the rows and columns of the matrix, so I'll denote the transpose as :
  $$
  A^{T}_{ij}=A_{ji}

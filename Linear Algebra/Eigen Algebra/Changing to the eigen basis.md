@@ -1,5 +1,8 @@
 ---
 aliases: []
+Tags:
+  - LinearAlgebra
+  - Eigen
 ---
 
 - **Eigenvectors** are introduced as a concept that can be combined with the idea of changing basis, which was discussed earlier in the course.

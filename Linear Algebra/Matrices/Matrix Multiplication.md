@@ -1,3 +1,8 @@
+---
+Tags:
+  - LinearAlgebra
+  - Matrices
+---
 To multiply two matrices, you use **matrix multiplication rules**, not element-wise multiplication. Here's a quick guide:
 
 ### ✅ **Matrix Multiplication Conditions:**

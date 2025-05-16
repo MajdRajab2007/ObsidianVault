@@ -1,10 +1,15 @@
+---
+Tags:
+  - LinearAlgebra
+  - Matrices
+---
 When multiplying two arrays A and B, instead of multiplying each row and each column to  get a single element, we can use the formula: 
 $$
 \sum_j{a_{ij}}b_{jk} = {a_{ij}}b_{jk}
 $$
 *Note:* *the summation convention allows for the sum to be written without the $\sum$*
 
-*Note:* ![[Photos/Pasted image 20250501162242.png]]2.png]]
+*Note:* ![[Photos/Pasted image 20250501162242.png]]
 
 And this formula can be very useful when coding where you can loop over all J's then all the I's then all K's
 

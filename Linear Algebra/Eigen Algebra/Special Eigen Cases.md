@@ -1,6 +1,9 @@
 ---
 aliases:
   - Special Eigen Cases
+Tags:
+  - LinearAlgebra
+  - Eigen
 ---
 In the context of eigenvalues and eigenvectors, there are three special cases to consider:
 
