@@ -34,10 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Bachaloria": {
-    "iconName": "LiAward",
-    "iconColor": "#e6ea1a"
-  },
   "Linear Algebra": {
     "iconName": "LiCalculator",
     "iconColor": "#d93636"
@@ -59,6 +55,5 @@
   "To Do lists": {
     "iconName": "LiCalendarDays",
     "iconColor": "#444384"
-  },
-  "Bachaloria/Files": "LiFolder"
+  }
 }
